@@ -1,4 +1,7 @@
 # php-tech
-Download files
-chmod 744 ./tech.php
+Download files<br>
+
+chmod 744 ./tech.php<br>
+
 run file ./tech.php
+
